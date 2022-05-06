@@ -1,0 +1,40 @@
+.Heading{
+  padding-top: 1%;
+  padding-bottom: 2%;
+}
+.container{
+  padding-left: 30%;
+  padding-right: 30%;
+}
+.top{
+    padding-top: 5%;
+}
+.steps{
+  text-align: center;
+}
+.list{
+  text-align: justify;
+}
+h2{
+  padding: 15px 3px;
+}
+.form{
+  color: white;
+  background-color: #15253C;
+}
+.background{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bckgrnd{
+  text-align: justify;
+}
+img{
+  width: 70%;
+}
+
+.rowBTN{
+  padding: 2% 1% 10%;
+  background-color: #15253C;
+
+}
